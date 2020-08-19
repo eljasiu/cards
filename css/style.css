@@ -131,4 +131,13 @@ main img{
     grid-column: auto;
     grid-row: auto;
   }
+
+  main p{
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  main img{
+    margin-top: 35px;
+  }
 }
